@@ -1,5 +1,6 @@
 <!-- Logback-test.xml will take priority over this file -->
 <configuration>
+    <property resource="application.properties" />
     <property name="APPLICATION_ID" value="${project.artifactId}" />
     <property name="CONSOLE_PATTERN" value="%d{HH:mm:ss.SSS} %-5level %logger{36}%msg%n" />
     <property name="FILE_PATTERN" value="%d{HH:mm:ss.SSS} %-5level %logger{90}%msg%n" />
