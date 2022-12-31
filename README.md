@@ -18,7 +18,7 @@ Any required disclosures?
 The technologies the project is using.
 
 #### 2.1.1) Development environment
-- Java version: 	`1.8`
+- Java version: 	`1.17`
 - Maven
 
 #### 2.1.2) Project Dependencies
